@@ -1,0 +1,9 @@
+127.0.0.1 - - [25/Mar/2020:09:41:11 +0900] "GET / HTTP/1.1" 404 1115
+127.0.0.1 - - [25/Mar/2020:15:11:56 +0900] "GET / HTTP/1.1" 404 1115
+127.0.0.1 - - [25/Mar/2020:15:12:14 +0900] "GET / HTTP/1.1" 404 1115
+70.12.113.248 - - [25/Mar/2020:15:51:35 +0900] "POST /oracledb/androidDB.jsp?id=id06&pwd=464646&age=38&gender=F&phone=010-4545-3232&email=id06@naver.com&agree=Y HTTP/1.1" 200 7
+70.12.113.248 - - [25/Mar/2020:15:52:51 +0900] "POST /oracledb/androidDB.jsp?id=id06&pwd=34334&age=33&gender=F&phone=010-3333-2223&email=id06@ostbmail.com&agree=Y HTTP/1.1" 200 7
+127.0.0.1 - - [25/Mar/2020:16:22:07 +0900] "GET / HTTP/1.1" 404 1115
+127.0.0.1 - - [25/Mar/2020:17:20:36 +0900] "GET / HTTP/1.1" 404 1115
+127.0.0.1 - - [25/Mar/2020:17:24:44 +0900] "GET / HTTP/1.1" 404 1115
+70.12.113.248 - - [25/Mar/2020:17:42:49 +0900] "POST /orcledb/androidLogin.jsp?id=id01&pwd=1234 HTTP/1.1" 404 1143

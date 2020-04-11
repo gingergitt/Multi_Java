@@ -1,0 +1,4 @@
+127.0.0.1 - - [24/Mar/2020:14:24:45 +0900] "GET / HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [24/Mar/2020:14:24:46 +0900] "GET /oracledb/WEB-INF/classes/com/db/ConnectDB.java HTTP/1.1" 404 1086
+127.0.0.1 - - [24/Mar/2020:17:25:53 +0900] "GET / HTTP/1.1" 404 1115
+70.12.113.248 - - [24/Mar/2020:17:29:33 +0900] "POST /oracledb/androidDB.jsp?id=id05&pwd=4555&age=43&gender=M&phone=010-2323-3232&email=id05@gmail.com&agree=Y HTTP/1.1" 200 7

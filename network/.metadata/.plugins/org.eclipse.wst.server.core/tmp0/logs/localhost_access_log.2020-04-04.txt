@@ -1,0 +1,4 @@
+127.0.0.1 - - [04/Apr/2020:14:41:03 +0900] "GET / HTTP/1.1" 404 1115
+70.12.113.248 - - [04/Apr/2020:14:41:53 +0900] "POST /oracledb/androidDB.jsp?id=id09&pwd=4444&age=38&gender=M&phone=010-3939-8988&email=id09@gmail.com&agree=Y HTTP/1.1" 200 7
+70.12.113.248 - - [04/Apr/2020:14:42:00 +0900] "POST /oracledb/androidLogin.jsp?id=id09&pwd=4444 HTTP/1.1" 200 8
+70.12.113.248 - - [04/Apr/2020:14:42:46 +0900] "POST /oracledb/androidLogin.jsp?id=id09&pwd=4444 HTTP/1.1" 200 8

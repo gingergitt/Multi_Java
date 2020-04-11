@@ -1,0 +1,76 @@
+package workshop;
+
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+class cars extends Thread {
+	String id;
+	String category;
+	double lat;
+	double lng;
+	
+	
+	public cars() {
+	}
+
+
+	public cars(String id, String category, double lat, double lng) {
+		this.id = id;
+		this.category = category;
+		this.lat = lat;
+		this.lng = lng;
+	}
+
+
+	@Override
+	public void run() {
+		
+		for(int i=0; i<=10 ; i++) {
+			
+			try {
+				Thread.sleep(10000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			 
+			System.out.println(id);
+			// 회원가입 진행 시간은 10초 가 걸리며 회원 가입 하는 도중에 이름이 계속 출력 되며 10초 후에 완료가 출력 된다.
+			// 단, Thread.sleep(1000); 으로 작업
+		}
+		System.out.println("Car Info");
+	}
+	
+	
+	
+	
+}
+
+
+
+public class W1 {
+
+	public static void main(String[] args) throws Exception {
+		
+		String urlstr= "http://70.12.113.202/test/car.jsp?";
+		urlstr += 
+		URL url = new URL(urlstr);
+		HttpURLConnection con = (HttpURLConnection) url.openConnection();
+		while(true) {
+		double lat = 128.3+ (int)(Math.random()*10);
+		double lng = 37.+ (int)(Math.random()*10);
+			
+			
+			con.setReadTimeout(15000);
+			con.setRequestMethod("POST");
+			con.getInputStream();
+			con.disconnect();
+		}
+		
+		
+	}
+		
+		
+	}
+	
+

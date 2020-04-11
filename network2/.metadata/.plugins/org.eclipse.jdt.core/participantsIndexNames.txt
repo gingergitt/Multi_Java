@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\network2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\215209004.index
+\semipj2\src
+C:\network2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3698299594.index
+\webview\src
+C:\network2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1766601437.index
+\test\src

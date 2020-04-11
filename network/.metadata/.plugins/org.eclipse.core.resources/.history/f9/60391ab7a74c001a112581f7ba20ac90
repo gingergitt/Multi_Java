@@ -1,0 +1,34 @@
+package workshop;
+
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+public class Car extends Thread {
+
+	String id;
+	String category;
+	double lat;
+	double lng;
+
+	
+	public static void main(String[] args) throws Exception {
+
+		String urlstr = "http://70.12.113.202/test/car.jsp?id=id05";
+		String category = "tesla";
+		double lat = 128.3 + (int) (Math.random() * 10);
+		double lng = 37. + (int) (Math.random() * 10);
+
+		urlstr += "&category=" + category + "&lat=" + lat + "&lng=" + lng;
+		URL url = new URL(urlstr);
+		HttpURLConnection con = (HttpURLConnection) url.openConnection();
+		while (true) {
+		
+			con.setReadTimeout(15000);
+			con.setRequestMethod("POST");
+			con.getInputStream();
+			con.disconnect();
+		}
+
+	}
+
+}

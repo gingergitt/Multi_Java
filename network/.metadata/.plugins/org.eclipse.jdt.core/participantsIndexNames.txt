@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\network\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1766601437.index
+\test\src
+C:\network\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3625082976.index
+\finalpj\src\main\java
+C:\network\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2114579682.index
+\oracledb\src
+C:\network\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1459110009.index
+\semipj2\src\main\java

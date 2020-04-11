@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;serial.SerialConnect&apos; to &apos;SerialReadWrite&apos;&#x0D;&#x0A;- Original project: &apos;serial&apos;&#x0D;&#x0A;- Original element: &apos;serial.SerialConnect&apos;&#x0D;&#x0A;- Renamed element: &apos;serial.SerialReadWrite&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SerialConnect&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;serial{SerialConnect.java[SerialConnect" matchStrategy="1" name="SerialReadWrite" qualified="false" references="true" similarDeclarations="false" stamp="1584072256474" textual="false" version="1.0"/>
+</session>

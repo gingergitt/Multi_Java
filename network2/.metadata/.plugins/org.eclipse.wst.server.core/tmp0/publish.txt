@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Mar 10 19:38:44 KST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\network2\\semipj2\\WebContent\\WEB-INF\\lib\\spring-web-4.1.0.RELEASE.jar=WEB-INF/lib/spring-web-4.1.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:aopalliance-1.0=WEB-INF/lib/aopalliance-1.0.jar
+org.eclipse.jst.j2ee.server\:aspectjrt-1.6.10=WEB-INF/lib/aspectjrt-1.6.10.jar

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Msg.java&apos; to &apos;server/src/msg&apos;&#x0D;&#x0A;- Original project: &apos;dya077&apos;&#x0D;&#x0A;- Destination element: &apos;server/src/msg&apos;&#x0D;&#x0A;- Original element: &apos;tcpip2.Msg.java&apos;" description="Copy compilation unit" destination="=server/src&lt;msg" element1="/src&lt;tcpip2{Msg.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1583716351351" units="1" version="1.0"/>
+</session>
