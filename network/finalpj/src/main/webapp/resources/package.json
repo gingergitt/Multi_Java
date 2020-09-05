@@ -59,7 +59,7 @@
     "gulp-multistream": "^0.1.0",
     "jquery": "^2.1.4",
     "load-grunt-config": "^0.19.2",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.14.1",
     "phantomjs": "^1.9.18",
     "uglifycss": "0.0.25"
   },
